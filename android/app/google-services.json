@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "614485048976",
+    "firebase_url": "https://qrapp1-e24e4-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "qrapp1-e24e4",
+    "storage_bucket": "qrapp1-e24e4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:614485048976:android:eb41b29250ac08fa1a6215",
+        "android_client_info": {
+          "package_name": "com.example.qrapp1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCA-0xD6eXBWqfjPdG0TQEYbvzRNmQrmk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
